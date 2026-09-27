@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import Navbar from './components/Navbar';
+import Navbar from './components/navbar';
 import AppRoutes from './routes/AppRoutes';
 import { MapPin, X } from 'lucide-react';
 
