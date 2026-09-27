@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --color-floower-deepWine: #602A30;
+  --color-floower-darkWine: #4A1E23;
+  --color-floower-cream: #E6D7CE;
+  --color-floower-amber: #DB8A20;
+  --color-floower-rose: #A66B72;
+}
+
+body {
+  background-color: var(--color-floower-deepWine);
+  color: var(--color-floower-cream);
+  font-family: serif;
+}
